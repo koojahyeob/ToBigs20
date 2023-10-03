@@ -1,5 +1,5 @@
 # ToBigs20 정규세션 과제
-### 2020.07.19 ~ 2020.09.20, 빅데이터 연합동아리 [투빅스](http://www.datamarket.kr/xe/) 20기 정규세션    
+### 2020.07.19 ~ 2020.09.20 빅데이터 연합동아리 [투빅스](http://www.datamarket.kr/xe/) 20기 정규세션    
 
 
 |Date|Week|Class|
@@ -13,7 +13,7 @@
 |8.30|7주차|Vision Basic / NLP Basic|
 |9.6|8주차|Vision Advanced / NLP Advanced|
 |9.13|9주차|추천시스템 / Gen Basic|
-|9.20|10주차|Gen Advance / 생존 분|
+|9.20|10주차|Gen Advance / 생존 분석|
 
 
 ## Week1_framework 1, 2번 과제
