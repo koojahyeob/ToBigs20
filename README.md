@@ -1,4 +1,20 @@
-# ToBigs20 정규세션 과제 제출용 Repository
+# ToBigs20 정규세션 과제
+### 2020.07.19 ~ 2020.09.20, 빅데이터 연합동아리 [투빅스](http://www.datamarket.kr/xe/) 20기 정규세션    
+
+
+|Date|Week|Class|
+|:---:|:---:|:---|
+|7.19|1주차|Framework / EDA & Git|
+|7.26|2주차|최적화 / 회귀분석|
+|8.2|3주차|나이브베이즈 & 의사결정나무 / NN Basic|
+|8.9|4주차|KNN & Clustering / Dimensionality|
+|8.16|5주차|SVM & SVR|
+|8.23|6주차|시계열(Time-Series) / NN Advanced|
+|8.30|7주차|Vision Basic / NLP Basic|
+|9.6|8주차|Vision Advanced / NLP Advanced|
+|9.13|9주차|추천시스템 / Gen Basic|
+|9.20|10주차|Gen Advance / 생존 분|
+
 
 ## Week1_framework 1, 2번 과제
 #### Library 와 Framework 의 차이 간단하게 서술하기. (100자 내외)
