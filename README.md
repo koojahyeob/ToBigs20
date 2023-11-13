@@ -1,5 +1,5 @@
 # ToBigs20 정규세션 과제
-### 2020.07.19 ~ 2020.09.20 빅데이터 연합동아리 [투빅스](http://www.datamarket.kr/xe/) 20기 정규세션    
+### 2023.07.19 ~ 2023.09.20 빅데이터 연합동아리 [투빅스](http://www.datamarket.kr/xe/) 20기 정규세션    
 
 
 |Date|Week|Class|
