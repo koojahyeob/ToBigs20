@@ -13,7 +13,7 @@
 |8.30|7주차|Vision Basic / NLP Basic|
 |9.6|8주차|Vision Advanced / NLP Advanced|
 |9.13|9주차|추천시스템 / Gen Basic|
-|9.20|10주차|Gen Advance / 생존 분석|
+|9.20|10주차|Gen Advanced / 생존 분석|
 
 
 ## Week1_framework 1, 2번 과제
